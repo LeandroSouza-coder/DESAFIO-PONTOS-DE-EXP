@@ -23,3 +23,12 @@ Imprima a quantidade de XP ganhos após a batalha.
 
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+Entrada: 45  40
+Saída: Voce ganhou 180000 XP!
+
+Entrada: 41  38
+Saída: Voce ganhou 155800 XP!
+
+Entrada: 15  20
+Saída: Voce ganhou 30000 XP!
